@@ -1,14 +1,15 @@
 # BeeMovieSpammer
-Send the entire Bee Movie script to someone over text, word...by...word. All 10,000 words
+Send the entire Bee Movie script to someone over text, word...by...word, all 10,000 of them.
 
 Simply open up Terminal from Applications
 
-type
+Then type
 ```
-$ git clone https://github.com/ykutrizzle/BeeMovieSpammer.git
+git clone https://github.com/ykutrizzle/BeeMovieSpammer.git
+cd BeeMovieSpammer
 ```
+followed by
 
-then
 ```
 $ ./Bee 'name of person you want to spam'
 ```
